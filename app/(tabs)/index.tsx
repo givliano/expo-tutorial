@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     flex: 1,
+    // hello
     paddingTop: 28,
   },
   footerContainer: {
